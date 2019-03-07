@@ -1,0 +1,28 @@
+C:\Users\nosbo\Documents\ProjetoDTI\EstoqueWCF\EstoqueWCF\bin\Debug\EstoqueWCF.dll.config
+C:\Users\nosbo\Documents\ProjetoDTI\EstoqueWCF\EstoqueWCF\bin\Debug\EstoqueWCF.dll
+C:\Users\nosbo\Documents\ProjetoDTI\EstoqueWCF\EstoqueWCF\bin\Debug\EstoqueWCF.pdb
+C:\Users\nosbo\Documents\ProjetoDTI\EstoqueWCF\EstoqueWCF\bin\Debug\EntityFramework.dll
+C:\Users\nosbo\Documents\ProjetoDTI\EstoqueWCF\EstoqueWCF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nosbo\Documents\ProjetoDTI\EstoqueWCF\EstoqueWCF\bin\Debug\System.Data.SQLite.dll
+C:\Users\nosbo\Documents\ProjetoDTI\EstoqueWCF\EstoqueWCF\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\nosbo\Documents\ProjetoDTI\EstoqueWCF\EstoqueWCF\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\nosbo\Documents\ProjetoDTI\EstoqueWCF\EstoqueWCF\bin\Debug\EntityFramework.xml
+C:\Users\nosbo\Documents\ProjetoDTI\EstoqueWCF\EstoqueWCF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nosbo\Documents\ProjetoDTI\EstoqueWCF\EstoqueWCF\bin\Debug\System.Data.SQLite.xml
+C:\Users\nosbo\Documents\ProjetoDTI\EstoqueWCF\EstoqueWCF\obj\Debug\EstoqueWCF.dll
+C:\Users\nosbo\Documents\ProjetoDTI\EstoqueWCF\EstoqueWCF\obj\Debug\EstoqueWCF.pdb
+C:\Users\nosbo\Documents\ProjetoDTI\EstoqueWCF\EstoqueWCF\obj\Debug\EstoqueWCF.csprojResolveAssemblyReference.cache
+C:\Users\nosbo\Downloads\Projeto DTI\ProjetoDTI\EstoqueWCF\EstoqueWCF\bin\Debug\EstoqueWCF.dll.config
+C:\Users\nosbo\Downloads\Projeto DTI\ProjetoDTI\EstoqueWCF\EstoqueWCF\bin\Debug\EstoqueWCF.dll
+C:\Users\nosbo\Downloads\Projeto DTI\ProjetoDTI\EstoqueWCF\EstoqueWCF\bin\Debug\EstoqueWCF.pdb
+C:\Users\nosbo\Downloads\Projeto DTI\ProjetoDTI\EstoqueWCF\EstoqueWCF\bin\Debug\EntityFramework.dll
+C:\Users\nosbo\Downloads\Projeto DTI\ProjetoDTI\EstoqueWCF\EstoqueWCF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nosbo\Downloads\Projeto DTI\ProjetoDTI\EstoqueWCF\EstoqueWCF\bin\Debug\System.Data.SQLite.dll
+C:\Users\nosbo\Downloads\Projeto DTI\ProjetoDTI\EstoqueWCF\EstoqueWCF\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\nosbo\Downloads\Projeto DTI\ProjetoDTI\EstoqueWCF\EstoqueWCF\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\nosbo\Downloads\Projeto DTI\ProjetoDTI\EstoqueWCF\EstoqueWCF\bin\Debug\EntityFramework.xml
+C:\Users\nosbo\Downloads\Projeto DTI\ProjetoDTI\EstoqueWCF\EstoqueWCF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nosbo\Downloads\Projeto DTI\ProjetoDTI\EstoqueWCF\EstoqueWCF\bin\Debug\System.Data.SQLite.xml
+C:\Users\nosbo\Downloads\Projeto DTI\ProjetoDTI\EstoqueWCF\EstoqueWCF\obj\Debug\EstoqueWCF.csprojResolveAssemblyReference.cache
+C:\Users\nosbo\Downloads\Projeto DTI\ProjetoDTI\EstoqueWCF\EstoqueWCF\obj\Debug\EstoqueWCF.dll
+C:\Users\nosbo\Downloads\Projeto DTI\ProjetoDTI\EstoqueWCF\EstoqueWCF\obj\Debug\EstoqueWCF.pdb

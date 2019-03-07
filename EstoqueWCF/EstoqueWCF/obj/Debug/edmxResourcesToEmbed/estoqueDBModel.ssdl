@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="estoqueDBModel.Store" Provider="System.Data.SQLite.EF6" ProviderManifestToken="data source=&quot;C:\Users\nosbo\Downloads\Projeto DTI\ProjetoDTI\EstoqueWCF\EstoqueWCF\estoqueDB.db&quot;" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Produtos">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="integer" Nullable="false" />
+    <Property Name="nome" Type="nvarchar" MaxLength="2147483647" Nullable="false" />
+    <Property Name="quantidade" Type="integer" Nullable="false" />
+    <Property Name="valor" Type="real" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="estoqueDBModelStoreContainer">
+    <EntitySet Name="Produtos" EntityType="Self.Produtos" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
